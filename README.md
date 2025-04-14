@@ -12,8 +12,8 @@ I’m currently studying at **Universität Osnabrück**, focusing on **Artificia
 - Worked with **Windows Server**, **ServiceNow**, and **IWS/Tidal** to monitor and optimize system performance.
 
 ### 🧠📚 **Education**:
-- **MSc Cognitive Science** | **Universität Osnabrück** -- INDIA
-- **BCA in Computer Science** | **Sri Krishna Arts and Science College** -- GERMANY
+- **MSc Cognitive Science** | **Universität Osnabrück** 
+- **BCA in Computer Science** | **Sri Krishna Arts and Science College** 
 
 ---
 
